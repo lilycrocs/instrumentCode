@@ -48,7 +48,7 @@ function setup() {
 
 function draw(){
     image(hc, 0, 0)
-    text(textInput.value(), 20, 10, 1170, 660)
+    text(textInput.value(), 20, 20, 1170, 660)
     textFont('monospace');
 }
 

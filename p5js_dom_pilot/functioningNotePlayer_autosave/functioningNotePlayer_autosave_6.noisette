@@ -35,32 +35,32 @@
   "layout": {
     "mainLayout": {
       "type": 1,
-      "width": 1245,
-      "height": 819,
+      "width": 1200,
+      "height": 752,
       "direction": 2,
       "shifters": [
         {
           "type": 1,
-          "width": 1245,
-          "height": 819,
+          "width": 1200,
+          "height": 752,
           "direction": 2,
           "shifters": [
             {
               "type": 1,
-              "width": 1245,
-              "height": 486,
+              "width": 1200,
+              "height": 453,
               "direction": 1,
               "shifters": [
                 {
                   "type": 1,
                   "width": 283,
-                  "height": 486,
+                  "height": 453,
                   "direction": 2,
                   "shifters": [
                     {
                       "type": 0,
                       "width": 283,
-                      "height": 250,
+                      "height": 234,
                       "currentContent": "Modules",
                       "tabs": [
                         {
@@ -71,7 +71,7 @@
                     {
                       "type": 0,
                       "width": 283,
-                      "height": 230,
+                      "height": 213,
                       "currentContent": "Custom Variables",
                       "tabs": [
                         {
@@ -83,8 +83,8 @@
                 },
                 {
                   "type": 0,
-                  "width": 316,
-                  "height": 486,
+                  "width": 271,
+                  "height": 453,
                   "currentContent": "State Machine",
                   "tabs": [
                     {
@@ -104,7 +104,7 @@
                 {
                   "type": 0,
                   "width": 634,
-                  "height": 486,
+                  "height": 453,
                   "currentContent": "Inspector",
                   "tabs": [
                     {
@@ -116,14 +116,14 @@
             },
             {
               "type": 1,
-              "width": 1245,
-              "height": 327,
+              "width": 1200,
+              "height": 293,
               "direction": 1,
               "shifters": [
                 {
                   "type": 0,
                   "width": 178,
-                  "height": 327,
+                  "height": 293,
                   "currentContent": "Sequences",
                   "tabs": [
                     {
@@ -133,8 +133,8 @@
                 },
                 {
                   "type": 0,
-                  "width": 581,
-                  "height": 327,
+                  "width": 536,
+                  "height": 293,
                   "currentContent": "Sequence Editor",
                   "tabs": [
                     {
@@ -145,7 +145,7 @@
                 {
                   "type": 0,
                   "width": 474,
-                  "height": 327,
+                  "height": 293,
                   "currentContent": "Logger",
                   "tabs": [
                     {
@@ -170,12 +170,6 @@
   "modules": {
     "items": [
       {
-        "parameters": [
-          {
-            "value": false,
-            "controlAddress": "/logIncoming"
-          }
-        ],
         "niceName": "WebSocket Server",
         "type": "WebSocket Server",
         "scripts": {
